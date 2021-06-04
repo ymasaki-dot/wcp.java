@@ -1,1 +1,1 @@
-# wcp.java
+java の基礎学習
